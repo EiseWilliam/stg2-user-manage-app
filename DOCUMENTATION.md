@@ -150,7 +150,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 The api will be accessible at http://localhost:8000.
 
 ## UML Diagram
-![UML Diagram](./path/to/your/uml-diagram.png)
+![UML Diagram](./Uml.png)
 
 
 
