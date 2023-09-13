@@ -7,6 +7,7 @@ Welcome to the documentation for the User Manager CRUD (Create, Read, Update, De
 - [Sample API Usage](#sample-api-usage)
 - [Known Limitations](#known-limitations)
 - [Local Setup and Deployment](#local-setup-and-deployment)
+- [UML Diagram](#UML-diagram)
 
 ## Request and Response Formats
 
@@ -114,6 +115,7 @@ Response:
 ```
 ### Known Limitations
 - There is no authentication or authorization implemented for API endpoints, making them publicly accessible.
+- There are only two field in the data, would be more when implemented.
 
 ## Local Setup and Deployment
 
@@ -146,6 +148,10 @@ Before you begin, ensure you have the following prerequisites installed on your 
 `python3 app/main.py`
 
 The api will be accessible at http://localhost:8000.
+
+## UML Diagram
+![UML Diagram](./path/to/your/uml-diagram.png)
+
 
 
 
